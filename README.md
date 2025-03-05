@@ -1,1 +1,1 @@
-# smolagents-code_agents
+# huggingface-code_agents
